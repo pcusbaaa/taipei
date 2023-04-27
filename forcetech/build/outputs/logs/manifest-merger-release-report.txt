@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+		INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:5:5-52:19
+service#com.forcetech.service.P2PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:7:9-10:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:10:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:8:13-60
+service#com.forcetech.service.P3PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:12:9-15:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:13:13-60
+service#com.forcetech.service.P4PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:17:9-20:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:20:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:18:13-60
+service#com.forcetech.service.P5PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:22:9-25:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:25:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:23:13-60
+service#com.forcetech.service.P6PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:27:9-30:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:28:13-60
+service#com.forcetech.service.P7PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:32:9-35:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:33:13-60
+service#com.forcetech.service.P8PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:37:9-40:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:40:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:38:13-60
+service#com.forcetech.service.P9PService
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:42:9-45:38
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:43:13-60
+service#com.gsoft.mitv.MainActivity
+ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:47:9-50:39
+	android:process
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:50:13-36
+	android:exported
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:48:13-55
+uses-sdk
+INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+		INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+		ADDED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+		INJECTED from E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml

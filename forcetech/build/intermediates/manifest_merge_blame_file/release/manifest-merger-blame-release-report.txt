@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.forcetech" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="29" />
+7-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml
+8
+9    <application>
+9-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:5:5-52:19
+10        <service
+10-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:7:9-10:38
+11            android:name="com.forcetech.service.P2PService"
+11-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:8:13-60
+12            android:exported="false"
+12-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:9:13-37
+13            android:process=":p2p" />
+13-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:10:13-35
+14        <service
+14-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:12:9-15:38
+15            android:name="com.forcetech.service.P3PService"
+15-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:13:13-60
+16            android:exported="false"
+16-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:14:13-37
+17            android:process=":p3p" />
+17-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:15:13-35
+18        <service
+18-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:17:9-20:38
+19            android:name="com.forcetech.service.P4PService"
+19-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:18:13-60
+20            android:exported="false"
+20-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:19:13-37
+21            android:process=":p4p" />
+21-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:20:13-35
+22        <service
+22-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:22:9-25:38
+23            android:name="com.forcetech.service.P5PService"
+23-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:23:13-60
+24            android:exported="false"
+24-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:24:13-37
+25            android:process=":p5p" />
+25-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:25:13-35
+26        <service
+26-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:27:9-30:38
+27            android:name="com.forcetech.service.P6PService"
+27-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:28:13-60
+28            android:exported="false"
+28-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:29:13-37
+29            android:process=":p6p" />
+29-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:30:13-35
+30        <service
+30-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:32:9-35:38
+31            android:name="com.forcetech.service.P7PService"
+31-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:33:13-60
+32            android:exported="false"
+32-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:34:13-37
+33            android:process=":p7p" />
+33-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:35:13-35
+34        <service
+34-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:37:9-40:38
+35            android:name="com.forcetech.service.P8PService"
+35-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:38:13-60
+36            android:exported="false"
+36-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:39:13-37
+37            android:process=":p8p" />
+37-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:40:13-35
+38        <service
+38-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:42:9-45:38
+39            android:name="com.forcetech.service.P9PService"
+39-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:43:13-60
+40            android:exported="false"
+40-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:44:13-37
+41            android:process=":p9p" />
+41-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:45:13-35
+42        <service
+42-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:47:9-50:39
+43            android:name="com.gsoft.mitv.MainActivity"
+43-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:48:13-55
+44            android:exported="false"
+44-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:49:13-37
+45            android:process=":mitv" />
+45-->E:\TVBox\GitHub_All\TV\forcetech\src\main\AndroidManifest.xml:50:13-36
+46    </application>
+47
+48</manifest>
